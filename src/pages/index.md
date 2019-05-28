@@ -1,16 +1,19 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: 'It''s like "Soft Skills", but on steroids...'
+image: /img/austin-chan-275638-unsplash.jpg
+heading: Concepts you can't learn from any book
+subheading: You can't become successful unless you create the opportunity
 mainpitch:
-  title: Why Kaldi
+  title: Why Fluffy Skills
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Soft Skills can be have different meanings based on how one views their idea
+    of "success". While there is a lot of content based on the concept, I had to
+    create my own path to obtaining the skills needed to "become successful". A
+    huge flaw I found was not having a guide to consistently SUCCEED. Success
+    should not be some "end goal" or thought of as a final prize. Fluffy Skills
+    tries to encourage anyone to take the risk on understanding how to "act"
+    successful. 
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +71,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
